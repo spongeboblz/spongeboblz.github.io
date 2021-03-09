@@ -1,0 +1,2 @@
+# spongeboblz.github.io
+blog
